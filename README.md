@@ -1,0 +1,2 @@
+# electromailer
+Toplu mail yazılımı
